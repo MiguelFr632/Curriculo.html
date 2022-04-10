@@ -6,6 +6,13 @@ body {
     font-family: "JetBrains Mono";
 }
 
+.center {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+
 h1 {
     text-align: center;
     margin: 30px;
@@ -44,6 +51,5 @@ div {
 
 img {
     width: 180px;
-    margin-left: 38%;
-    margin-top: 40px;
+    border-radius: 50%;
 }
